@@ -30,6 +30,10 @@ public class AlerPopupHandle {
 		
 		//alert.dismiss(); // to click cancel button
 		
+		//driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
+		//driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+		
+		
 		
 
 	}
